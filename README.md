@@ -2,8 +2,6 @@
 
 👾 I’m currently working with **C# .Net Core MVC** and **React.js**.
 
-📝 I regularly write articles on **Medium**.
-
 💬 Ask me about **C# .Net Core**, **Java SpringBoot**, **React**, **Git**, **PostgreSQL**, and **RESTful APIs**.
 
 📫 How to reach me: 
